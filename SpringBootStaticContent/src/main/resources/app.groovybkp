@@ -1,0 +1,7 @@
+@Controller
+class JsApp {
+
+    private static final String Blah = "frf";
+
+
+}
