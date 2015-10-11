@@ -1,0 +1,1 @@
+include 'Servlet2StaticContent','Servlet3StaticContent','SpringBootStaticContent'
