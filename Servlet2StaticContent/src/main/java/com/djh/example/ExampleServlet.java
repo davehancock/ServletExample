@@ -7,9 +7,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-/**
- * @author David Hancock
- */
+
 public class ExampleServlet extends HttpServlet {
 
     public static final String FOO = "foobar";

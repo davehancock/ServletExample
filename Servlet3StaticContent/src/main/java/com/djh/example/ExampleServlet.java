@@ -9,9 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-/**
- * @author David Hancock
- */
+
 @WebServlet(name = "exampleServlet", urlPatterns = {"/example"},
         initParams = {@WebInitParam(name = "simpleParam", value = "paramValue")})
 public class ExampleServlet extends HttpServlet {
